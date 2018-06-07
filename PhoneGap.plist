@@ -9,6 +9,6 @@
 	<key>EnableLocation</key>
 	<true/>
 	<key>EnableAcceleration</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
